@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowDown, Download } from 'lucide-react';
 import { motion } from 'framer-motion';
-import sarobidyPhoto from '../photo/port.jpeg';
+import sarobidyPhoto from '../photo/port.jpg';
 
 export default function Hero() {
   const scrollToAbout = () => {
