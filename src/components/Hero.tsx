@@ -41,7 +41,7 @@ export default function Hero() {
           >
             Bonjour, je suis{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
-              ANDRIANARIVO Anjarasoa Sarobidy
+              RANDRIAMAMONJIRAIBE Nomenjanahary Jean Louis
             </span>
           </motion.h1>
 
